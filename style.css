@@ -13,7 +13,7 @@
     height: 100vh;
     /* padding: 0px 200px; */
     /* border: 1px solid red; */
-    background-image: url("/images/bg-img.png");
+    background-image: url("images/bg-img.png");
     background-position: top-left;
     background-size: cover;
     background-repeat: no-repeat;
