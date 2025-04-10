@@ -170,8 +170,6 @@
 }
 .package-wrap{
     width: 100%;
-    height: 100vh;
-    border: 1px solid red;
     padding: 25px 60px;
 }
 .package-wrap h2{
@@ -249,7 +247,6 @@
 .testimony-wrap{
     width: 100%;
     height: 100vh;
-    border: 1px solid red;
     padding: 25px 60px;
     background-color: #ECF1F0;
     overflow-x: hidden
